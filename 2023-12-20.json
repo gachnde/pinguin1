@@ -1,0 +1,26 @@
+{
+  "name": "Francis Payne",
+  "age": 20,
+  "address": {
+    "street": "Ewotok River",
+    "city": "Ifdedaz",
+    "state": "TX",
+    "zip": "06908"
+  },
+  "contact": {
+    "phone": "(542) 474-3371",
+    "servicePhone": "800646984"
+  },
+  "birthday": "1974-03-10T07:33:09.266Z",
+  "ip": "192.203.174.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Sosivid lisnimwow pag bap kov icesokoba ot halob ga nej has kad kuk wisof. Otbuuz bodjotede libut gepozo jigded akhofo riviv tovarta dotiv joih punnunta uzelolmu uboep irapze alvupi fat. Rek ajicew tokbu da bapzotsu amakog owogaw juob ot corcurho bec kubnigvet laweged tobpibe kahrab kusul ef opipil.",
+    "bio": "Baboub asefop ijulih li zi ugkew kiz dipuraobo lib nolfurog gegrag ubilu. Menahsa hapbila vip kawfa desu zumig nawig jujisfu maf cubsel rut ipicob mugga wef. Tetobav nuunu guvazzo lev esu sig jebwak zo mickicsa bohicu teb powofge wigonsan."
+  },
+  "apiKey": "c9cf5f568983ae160aed037f7c2ba6f25144e3252a44136e8f249d6174be04bd",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
