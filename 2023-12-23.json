@@ -1,0 +1,26 @@
+{
+  "name": "Vernon Oliver",
+  "age": 40,
+  "address": {
+    "street": "Ulunim Park",
+    "city": "Huzuphi",
+    "state": "AK",
+    "zip": "00090"
+  },
+  "contact": {
+    "phone": "(564) 451-9407",
+    "servicePhone": "800884651"
+  },
+  "birthday": "1989-11-17T06:23:53.738Z",
+  "ip": "149.103.191.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Uj viwdanuk ev juvohoihe ki edguso matezub zutho eksiwiwa ti bu di vorsuvdu lebejez ilizas. Na viuzgu ilna dikhilar ugibir nom umurere imsih vetu meh alveroc ofaiw nek atbolu ec tudin. Ho zi izikigo natcopiv fu mo tiic bonzez kon miig ho edu. Ujuur ihu zipur se mairu napke rautire iwfoj gis puv pe ak fagzuec lu duhtoige.",
+    "bio": "Lo bacefa cero ician alaizhe tinufa ijesac do vahrut cazfiwhuh fe jocgo ligim kigig ruzjig zez sasosop occuz. Jimpuhat ope mizomev funokafu fenow ti jonka ku uvakiw wawsu ic mu. Bajwuhsa ewlujpeh zi nu jipfirit judowo hu de kukopez aghebu am coenaja. Sehifi wupu ijkefuze vucob vamaveb le bozpufbum ozus ro ro az lokcet. Zozela kotefi ohlodudi kuvromze somur inaaso gijzoimi jor vobad uzu rene otiziz nubpagtuk savnazuva ozda hodsitu waji dep. Iw pievev mujmus ro fehzulgul uwmiez opusuder efola ep ukbigif gicabkof bi mi nog."
+  },
+  "apiKey": "b51304c44504f51ca42cfb15c3b406776d730b960f5e36e177be416af44abc17",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
