@@ -1,0 +1,26 @@
+{
+  "name": "Derek Armstrong",
+  "age": 32,
+  "address": {
+    "street": "Towaz Parkway",
+    "city": "Pihodhu",
+    "state": "LA",
+    "zip": "93417"
+  },
+  "contact": {
+    "phone": "(420) 853-6624",
+    "servicePhone": "800181861"
+  },
+  "birthday": "1985-02-19T05:56:05.070Z",
+  "ip": "53.17.83.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Kifep ewfar wavmiksu nafkekaci sazlicuci nuk ul lufkida gag folum leta epe ham bev akcudjaf budjow lo. Sif ozhese wusakif elrupgic sutzupo rak gopluw pezip bazpogvo cet mo onrun kobmi gis jis. Rogok cup uvesabdi sa kimil latilcov agofih jala lezgoalo muha hun za ta ru bo. Kud rafso tufodi zaje pi tep kurmoda num tu guvatmo cewo ef. Ruki og wureamu ba ni cocoja keho vikoc waceigo lilicket vak zal.",
+    "bio": "Kosupoh ges ma tov alkuwfub devive es sauji bujhahid wopowo jitmo vojumzol legu. Pic lotvehri zebjuliz orgug duip boazi azidupa wurugen epjavac jortep urozewe hamvi mopdosal gi ri. Tobnuszag do ewata uj ta palu kowbek ticdi waf puro gis nic. Wuraha ujuzipsuf bepi we kud gomtus titalvi puwca wilij gamgu jugug pi bazovariv raegu. Uhhinwe minamu ju ukjuce ita vuz zowdivig uhiomici mosegaj nocubo wuzwog zepva raskelwiw jafar mito jon."
+  },
+  "apiKey": "751a35e8020ab9f42e06dbe3addaa884f78fa7b7ec5f1ca4a480df9df4a87bfd",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
