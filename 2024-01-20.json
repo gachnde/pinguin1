@@ -1,0 +1,26 @@
+{
+  "name": "Justin Reyes",
+  "age": 37,
+  "address": {
+    "street": "Toffo Boulevard",
+    "city": "Wuruhuwa",
+    "state": "MD",
+    "zip": "34075"
+  },
+  "contact": {
+    "phone": "(970) 789-1020",
+    "servicePhone": "800469677"
+  },
+  "birthday": "1978-12-03T05:10:42.673Z",
+  "ip": "201.75.28.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Muwo vi jen or cagav ize topem do ijo fopburna ta kouc bimmo zizhonwik. La rumavzoh dikid mowim zu batpulpir ow lubel riktiru pamo tusa hidra borrusu dis. Pu ligcij wif cukugwiz ikuid bov satfiwo ehovo aknu ewhodmag fomauka mesinnil pa zela boej.",
+    "bio": "Bewura im ug kueje hew topibpom zag go itwig kairtus gukan cetzoc. Ibluut rabuzru se oh kocicu kub poabupu kunuola wu fuifavu ajuriteri fu. Kogse huwri ihima taraba ifi abonek satdaf giupeh bi hoakmur bew eh."
+  },
+  "apiKey": "590af8b0e1d5fb6473df44bfe54f8af6a2c93f9e800f51d196a879e57ca82b16",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
