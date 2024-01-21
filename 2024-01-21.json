@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Kennedy",
+  "age": 25,
+  "address": {
+    "street": "Nefder Grove",
+    "city": "Fengoki",
+    "state": "NY",
+    "zip": "51654"
+  },
+  "contact": {
+    "phone": "(802) 342-8392",
+    "servicePhone": "800762358"
+  },
+  "birthday": "1977-07-18T14:09:26.257Z",
+  "ip": "141.4.10.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovheg miw judzusa bo sofushic gog wizsobep fo mum unezikek leza olbiwon fuwintis muvemsun ako lus. Godupaf fiabazap jo jozfe fevice uhu ewoteimu le emtu ockige bugejam soutca irtes zok getanete hatiem juah ogewiozi. Gejil po hoplovi co wib kekat siwfet da ojluhmi utimo bapamune tuoziru bem nol gevberir nicbuvzut.",
+    "bio": "Gioduwok gat su reni wod fisodzur se mah coh opebiv reganza oguare. Relhiovi sadutiv vime invimfuc toprulaz korej naru tizepit erni ta wanbivra kiof zolefaz ikali luipi joknabo. Vas obesorec donjokkew uleifjo ha imdoj penez gi toociel ne joszu pitew ta tagin tawbu."
+  },
+  "apiKey": "cd45c30aa2bbde8665d949d35079ca6563bdd359b320688f59808d3717412d9b",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
