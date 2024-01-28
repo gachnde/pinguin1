@@ -1,0 +1,26 @@
+{
+  "name": "Jane Brooks",
+  "age": 43,
+  "address": {
+    "street": "Nado Path",
+    "city": "Nefegan",
+    "state": "OR",
+    "zip": "65966"
+  },
+  "contact": {
+    "phone": "(844) 781-7950",
+    "servicePhone": "800233653"
+  },
+  "birthday": "1992-05-30T06:03:45.189Z",
+  "ip": "64.190.17.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Zinat ul kum emiber niewiez genkinjoc bimiznu tecov fuzacken buwumri adnufek fenip pil. Awo lav joko dijvihezi diedris johaw moozve ub afbukju fufmil uzfij gat popno. Atevo tu igla lascel nulif zizuvic soggun sig ele sis nuruha bu kuaswi jokgawe eme irawofcu fu ce. Hoig oni pit cu lusem eku piwasubob sekub lusokfek uzenos ro memho.",
+    "bio": "Ruzenep irduiba niiniar medsujib daod vugfucuf pek acaibobuw apabu ek nahi wuh ji. Ohcelki baucosat weji lim ne wacrasviz veraj vineato zogub afuonu ajifiure lajikej soanadi. Se wuvwa pukab buvkad gastuse gahrip ju coahva ika uc olifapov pugoc le nujsuogo hahuzbu iwoha luj."
+  },
+  "apiKey": "e31c1c8b033e7a40e815727e909dcda3ab2089672bcdf656f33decb856ab59f6",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
