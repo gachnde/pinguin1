@@ -1,0 +1,26 @@
+{
+  "name": "Gregory McKinney",
+  "age": 51,
+  "address": {
+    "street": "Biawe View",
+    "city": "Lewucezi",
+    "state": "IL",
+    "zip": "47749"
+  },
+  "contact": {
+    "phone": "(213) 216-9541",
+    "servicePhone": "800665831"
+  },
+  "birthday": "1969-10-07T22:56:00.121Z",
+  "ip": "91.130.97.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Kujruvu zu ropoj wo ehepenkew kogazun tuvim tuame imulakol lehaze lag dospijlok ewu nemiz. Faugu hefu imisoli duc magigo mu wunbas hacedce wem hafitud we ov gevehpot povzim lisgego. Cewuj lipasatoz hurbaw inu bipu pak oteovi kevil sid ipatos rag gudfog.",
+    "bio": "Fenez asabifar buvlodog badsicsuk nabab huofi hop duzabaduv laufzew pozopvov leb afpecur. Bo awa houkebif umanomba bapo tukoret alva juvo he nutoc oco lut pe ja evezafhe kih pa. Jornubit etsedwog mabketuh rakjagopa otikdid bazkondim pir molognib migihuj utatuuv nog kuzu vujikior liguclej ziodo fobgo kumuma."
+  },
+  "apiKey": "6d3abd4d331198e1b8f26c182416a8507fb5b53f84e7d5d302f73bee663d7438",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
