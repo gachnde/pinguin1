@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Ross",
+  "age": 25,
+  "address": {
+    "street": "Wahkug Place",
+    "city": "Tarosuho",
+    "state": "TN",
+    "zip": "21795"
+  },
+  "contact": {
+    "phone": "(481) 852-8888",
+    "servicePhone": "800291725"
+  },
+  "birthday": "2000-10-27T14:03:50.249Z",
+  "ip": "152.87.107.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Ralutoku vobvej zebedu fubeci didcun vonobdud mezekbez vu zakuju tuwif odvo tuenavo kafcopti teuno imketsib jeb. Lew nucjekfod nuwolrik sic oka di mapmi jepuprij eve olanaug du muzdo efvut tuewida bodperak. Nohuiw cewekap poawo mi arzinzac wo giwec mevmad fuuho kubot cumtivli biwro. Pevonete obicuzu bezvupuh kilisi opa ih portas deta oc eli mu kumu je.",
+    "bio": "Giaro cul fipunum tawec han muzakasec rahewve betoj sicwunzaj aroir erces pafat ir movi tiknuvbu gif hoovacip. Vavauf boriij ved doddin edwe mocvem lobuce gatjeim vuhwo zidasad nabrehib votiszi esifor bicu. Mahibi pow tucuf ka foumefag gu jumfom judkek eto gevellop wikad vagac."
+  },
+  "apiKey": "2e0737534c214b16922f4e1d4b24bcd3adfaf90041b6b556143ac6d7dfcf29be",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
