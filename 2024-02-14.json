@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Watts",
+  "age": 22,
+  "address": {
+    "street": "Ketru Path",
+    "city": "Deudeen",
+    "state": "UT",
+    "zip": "55378"
+  },
+  "contact": {
+    "phone": "(679) 500-5487",
+    "servicePhone": "800937912"
+  },
+  "birthday": "1976-03-29T08:51:50.403Z",
+  "ip": "122.70.115.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Mudihcav fenwum dewgoka dulrab kagzomgi tufeho zatcogro ribvewim didwak se ev tamzic. Zagmozsel ruaf efuso cob omdok cewibut mezauva gifkaf vomuege bikurso od zaflasik wade ma. Kipjenogu fivades no el baagi momepe gohura zatmoob deizeda map bole ipvor mimju pi gab cebcag ciwafip pe. Fuf hepogale osemu ove icut neici jasipuce umi ri lehonjuz javkolveh void tol getudo ucimihir am dirzojij. Bebehpe wuppi roos lefujawod orawipbiv tu wufecmu ajzuc owfac gafkuc juh bauje.",
+    "bio": "Tuafi veuv uthotpib zokune oro lemdotgaw noifacuv arometub novmir uw se dipne lazga usoriret voscivfo. Te go vaifdo vaifefaf avcawa mo cikroseko foki sizok juof nokaode daofiij rosiga suuzo orujuzug. Kolos doivgo ozokisuv zandowu rocfaj uf darfuvga nofire ton mugmipod hene vutjal nis. Bum ce judomu pi fa avnuzduz lifegub azuzane kin enitincu tujaut gesuba itaapguc he pa tuntu."
+  },
+  "apiKey": "bdc430a3ca57eed82053e9c6157a4017346432022424768fedb80f9e9f64345f",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
