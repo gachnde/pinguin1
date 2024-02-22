@@ -1,0 +1,26 @@
+{
+  "name": "Leon Carson",
+  "age": 59,
+  "address": {
+    "street": "Hoste Street",
+    "city": "Zoruso",
+    "state": "AZ",
+    "zip": "63287"
+  },
+  "contact": {
+    "phone": "(216) 854-9731",
+    "servicePhone": "800798361"
+  },
+  "birthday": "1999-07-03T05:42:25.261Z",
+  "ip": "54.218.204.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Zabuse guav uw ih hob an fasac pevum onka rot amimak ruc boczevbeg siizuzi rolwuab. Urobah ib pumihuc ladpawebu wazuw terecik fube mopoko oji edwa rolloj zibahku ni. Vobcioce to fuod fovof fe vejo far afefi zebe makehja sit dorcom akab latpiet.",
+    "bio": "Moj lupmucir lesnijkik ne ehjiz rihla ebleh ku ez cis pak julavwuf ugagide peonuowa kini. Munoc dagbubme giduop temaruiv pices pe pasucas not ti tegi tohe bih. Ro fiblenpis bobizni gokuwi kuhkaj jasoh ohepe mog ram ma setnohhe zul. To ekovo hahle buzine radubpu en kug zasejap totlaffe za novu ejiufu telag rohobud. Vembo vim usaboheha cor kacfid pagok ro voknan vowebdi bulzo tobeta jalcibil tunam."
+  },
+  "apiKey": "8517667ee7a956e40902c8292f20264b53e998005a204f9d767ba5d2e2a19fda",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
