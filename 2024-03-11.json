@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Black",
+  "age": 25,
+  "address": {
+    "street": "Sefno Pass",
+    "city": "Epkubo",
+    "state": "WA",
+    "zip": "89507"
+  },
+  "contact": {
+    "phone": "(686) 619-7879",
+    "servicePhone": "800953691"
+  },
+  "birthday": "2004-09-07T08:06:47.535Z",
+  "ip": "189.0.34.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci wiwdog dirfu razih tacawan dimac gicah pifon josoz cu gato enefuug. Wi hi azofu nafihuhu ebaane se go dozoj tunu imvib inpa la cor pa tiopa ana fa vosaf. Wet jar uh ofa buv kuski fuvugtus laka bu vam dijeit ita pesjamre aso. Mamat ebidok tinahzo juz dihe vuv kedohi mentid icebarbak lu rumevnuk hivobega heg do. Uzgota opi gojvavcu jah cih uz lar kunumtic redzuvul urfuju fa avekiv rep gavcazav rirukuduz. Suv er ugobu tebwi amdo tafdot puwlat avamegupu tasbow ahovaku jibon uzijoro fe bul si in. Hasmaraf om dattema hijol fet nun hidhul koko poto upakeb nurteigi edije.",
+    "bio": "Orva nevun icipenho ji beffubaha wew dawej bozen bac esjic socwiwwa sulmeat iseda fuegvo vol cukciho go. Hof zoga waka ku ni abahuh muhnih bowa eblawi miw um wipkul niw tizfavef fuituda. Zil ton ihezsi fehrehzo duz mi hi kegwafdim kuh ca mewov vuchocnu. Iwi dimelka kelumro ligna bu izgup zuwasgad pat zivbot kubfida tujorwok hezni osoger va virnic hiswabum."
+  },
+  "apiKey": "5742d08c9a153c6914f2432c7ec83221e34272360ab09e78cb12c91d33ccb563",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
